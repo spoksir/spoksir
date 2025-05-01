@@ -18,7 +18,6 @@
 - 🐞 [Portfólio QA](https://github.com/spoksir)
 - 💼 [LinkedIn](https://www.linkedin.com/in/fmlvieira/)
 - ✉️ [Email](mailto:franciscovieira88@gmail.com)
-- <img alt="Discord" height="20" width="20" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Discord.svg" /> Discord (maviefra)
 
 
 ## 💻 Experience
