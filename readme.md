@@ -1,6 +1,6 @@
 <div align="center">   
   <p id="title">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+Hi,+I+ am+Francisco+Vieira"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%21+I+am+Francisco+Vieira+:)"/>
   </p>
   <p id="subtitle">
     𝗤𝗔 | Analyst | Automation
