@@ -34,6 +34,9 @@ Conducted daily compliance audits and documented incidents with photo/video evid
 
 ## 📝 Certification
   - ISTQB – Certified Tester Foundation | PTSQB Portuguese Software Testing Association
+  - Responsive Web-Design | FreeCodeCamp
+  - Google IT Support Professional Certification | Coursera
+  - Scrum Foundation | Certiprof
 
 
 
@@ -42,17 +45,10 @@ Conducted daily compliance audits and documented incidents with photo/video evid
 <details>
   <summary>Elaboração de Documentos da Qualidade</summary>
 
-  - Plano de Testes
-  - Cenários e Casos de Teste
-  - Relatório de Bugs
-  - Resultados dos Testes
-</details>
-
-<details>
-  <summary>Metodologias Ágeis</summary>
-
-  - Kanban
-  - Scrum
+  - Test Plan
+  - Test-Case Development
+  - Defect Tracking
+  - Reports
 </details>
 
 
@@ -72,9 +68,9 @@ Conducted daily compliance audits and documented incidents with photo/video evid
 
   - Jira
   - Testrail
+  - Excell
 
 </details>
-
 
 
 <details>
