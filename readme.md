@@ -21,9 +21,13 @@
 
 
 ## 💻 Experience
-  Security & Customer Care | Grupo 8:
-  - I was responsible for security and quality at locations such as Makro, Pingo Doce, Luís Simões Transportes, Constantino Nery Theatre, university residences, Auchan, parking facilities, and shopping centres.
-Conducted daily compliance audits and documented incidents with photo/video evidence,  status, and follow-up deadlines, Tracked non-conformities in logs, alerted responsible teams and updated records post-resolution, Managed digital records, maintaining data integrity, Verified CCTV/access control functionality and reported system failures promptly.
+  Software QA Engineer | CEiiA // Centre of Engineering and Product Development:
+- Designing and executing backend API test scenarios
+- Creating and maintaining test plans, manual test cases, and automation scripts
+- Supporting the team in selecting and evaluating test management tools to improve visibility and traceability
+- Writing and tracking issues on Jira, and suggesting process improvements aligned with a shift-left testing approach
+- Collaborating with developers to align QA efforts with CI/CD practices
+- Participating in QA metrics definition and quality reporting to stakeholders
 
 
  
